@@ -10,8 +10,6 @@ export const Signin = () => {
     Password: "",
     
 })
-
-const [data,setData] = useState([]);
 console.log(inpval);
 
 const getdata=(e)=>{
